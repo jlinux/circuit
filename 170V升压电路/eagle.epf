@@ -343,10 +343,10 @@ UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="175 283 774 682"
-State=2
+Loc="175 283 1538 1121"
+State=1
 Number=0
 
 [Desktop]
-Screen="1920 1080"
+Screen="1440 900"
 Window="Win_1"
