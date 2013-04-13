@@ -7908,18 +7908,18 @@ general purpose rectifier, 1 A</description>
 <part name="R20" library="rcl" deviceset="R-EU_" device="0204/5" value="100"/>
 <part name="VT14" library="transistor-fet" deviceset="IRF840" device=""/>
 <part name="SUPPLY1" library="supply2" deviceset="+12V" device=""/>
-<part name="C9" library="rcl" deviceset="C-EU" device="025-030X050" value="100u 25V"/>
+<part name="C9" library="rcl" deviceset="C-EU" device="050-025X075" value="100u 25V"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="C7" library="rcl" deviceset="C-EU" device="025-030X050" value="510p"/>
+<part name="C7" library="rcl" deviceset="C-EU" device="050-025X075" value="510p"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="VH" library="supply2" deviceset="+UB" device="" value="+170V"/>
-<part name="C8" library="rcl" deviceset="C-EU" device="025-030X050" value="0.1u"/>
+<part name="C8" library="rcl" deviceset="C-EU" device="050-025X075" value="0.1u"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="R23" library="rcl" deviceset="R-EU_" device="0204/5" value="4.7K"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="R22" library="rcl" deviceset="R-EU_" device="0204/5" value="680K"/>
 <part name="R19" library="rcl" deviceset="R-EU_" device="0204/5" value="0.33"/>
-<part name="L1" library="rcl" deviceset="L-US" device="0204/5" value="330uH"/>
+<part name="L1" library="rcl" deviceset="L-US" device="0207/10" value="330uH"/>
 <part name="VD3" library="diode" deviceset="1N4004" device="" value="US1M"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="R24" library="rcl" deviceset="R-EU_" device="0204/5" value="2.2K"/>
@@ -7930,7 +7930,7 @@ general purpose rectifier, 1 A</description>
 <part name="VH1" library="supply2" deviceset="+UB" device="" value="+170V"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="C5" library="rcl" deviceset="C-EU" device="025-030X050" value="4.7u 250V"/>
+<part name="C5" library="rcl" deviceset="C-EU" device="050-025X075" value="4.7u 250V"/>
 <part name="VCC" library="wirepad" deviceset="2,54/0,8" device=""/>
 <part name="GND" library="wirepad" deviceset="2,54/0,8" device=""/>
 <part name="170+" library="wirepad" deviceset="2,54/0,8" device=""/>
